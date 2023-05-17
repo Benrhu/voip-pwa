@@ -1,0 +1,7 @@
+{
+  "name": "PWAOrioned",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
